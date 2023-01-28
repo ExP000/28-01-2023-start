@@ -8,3 +8,11 @@ lint:
 	
 test:
 	python -m pytest -vv --cov=hello --cov=devopslib test_*.py
+
+
+format:
+	black *.py devopslib/*.py
+	
+
+
+all: install lint test format 
