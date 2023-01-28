@@ -16,10 +16,10 @@ Create development enironment that is cloud-based
 
 Build out python project scaffold:
 
-* Makefile 
-* requirements.txt
-* test_library.py
-* python_library
+* [Makefil](https://github.com/ExP000/DevOps-start/blob/main/Makefile)
+* [requirements.txt](https://github.com/ExP000/DevOps-start/blob/main/requirements.txt)
+* [test_library.py](https://github.com/ExP000/DevOps-start/blob/main/test_devopslib.py)
+* [python_library](https://github.com/ExP000/DevOps-start/tree/main/devopslib)
 * Dockerfile
 * command-line-tool
 * Microservice
