@@ -31,7 +31,8 @@ Build out python project scaffold:
 ### AWS Cloud Shell
 ### AWS Cloud 9
 
-## Command-Lines Tools 
+## Command-Lines Tools and Step Functions
+
 
 ## Microservices 
 
